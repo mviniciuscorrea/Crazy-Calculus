@@ -1,6 +1,6 @@
 # Crazy Calculus 🕹
 
-Crazy Calculus is a kids game to learn math basic operations ➕➖✖➗
+Crazy Calculus is a kids game app to learn math basic operations ➕➖✖➗
 
 You have 10 chances to get the calculation right in 5 seconds. Good luck 😉 
 
